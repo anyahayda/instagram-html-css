@@ -51,9 +51,10 @@ main {
 .account {
     border: 1px solid #e6e6e6;
     border-radius: 3px;
-    padding-top: 10px;
+    padding-top: 7px;
     background-color: white;
     margin-top: -85px;
+    padding-bottom: 10px;
 }
 
 .post {
@@ -64,28 +65,28 @@ main {
     margin-top: -200px;
 }
 
-#account-log {
+.account-log {
     color: black;
     font-size: 15px;
     font-weight: 300;
-    line-height: 400%;
+    line-height: 320%;
 }
 
-#insta-name {
+.insta-name {
     font-family: 'Billabong', cursive;
     font-size: 40px;
     padding-left: 17px;
     color: black;
 }
 
-#text {
+.text {
     color: #999;
     font-size: 16px;
     line-height: 130%;
     font-weight: bold;
 }
 
-#facebook-button {
+.facebook-button {
     background-color: #3897f0;
     border: 1px solid #3897f0;
     border-radius: 4px;
@@ -96,7 +97,7 @@ main {
     width: 270px;
 }
 
-#or {
+.or {
     color: #999;
     font-size: 13px;
     font-weight: 600;
@@ -105,7 +106,7 @@ main {
 }
 
 
-#sign-up {
+.sign-up {
     background-color: #3897f0;
     border: 1px solid #3897f0;
     border-radius: 4px;
@@ -118,7 +119,7 @@ main {
 
 }
 
-#down-buttons {
+.down-buttons {
     color: #999999;
     font-size: 13px;
     font-weight: 400;
@@ -128,7 +129,7 @@ main {
     padding: 18px 10px;
 }
 
-#get-app {
+.get-app {
     margin-left: 940px;
 }
 
@@ -175,4 +176,6 @@ button {
     height: 40px;
     width: 130px;
 }
+
+
 
